@@ -1,0 +1,45 @@
+<style>
+
+    body { 
+	}
+	
+	.left { 
+	float: left;
+	padding: 20px;
+	}
+	
+	.error { 
+	font-size: 60px;
+	font-weight:600;
+	}
+	
+	.text { 
+	font-size: 20px;
+	}
+	
+	.text a { 
+	color: #00457C;
+	}
+	
+	.text a:hover { 
+	text-decoration: none;
+	}
+	
+</style>
+
+<div class="left">
+
+<div class="error">Ошибка 404</div>
+
+<div class="text">Товарищ! Страница не найдена.<br> 
+Попробуй воспользоваться поиском по сайту.<br><br>
+На <a href="https://politikus.ru">главную страницу</a> сайта.</div>
+
+</div>
+
+
+<div class="pic">
+
+<img src="https://politikus.ru/404.jpg">
+
+</div>
